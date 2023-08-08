@@ -12,7 +12,10 @@
   "dependencies": {
     "react": "18.0.0",
     "react-native": "0.69.12",
-    "react-native-biometrics": "^3.0.1"
+    "react-native-biometrics": "^3.0.1",
+    "react-native-device-crypto": "^0.1.7",
+    "react-native-ec-encryption": "^1.1.0",
+    "react-native-secure-encryption-module": "^0.0.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
